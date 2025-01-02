@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Guess the Number</title>
+        <link rel="icon" type="icon" href="logo.png">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="style.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Nabla&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <section id='game'>
+        <div class="logo">
+            <img src="guessnum.png" alt="">
+            <p>GUESS THE NUMBER</p>
+        </div> 
+        <div class="header">
+            <h1>Ready to play!</h1>
+        </div>
+        <div class="body">
+            <p id="title">Enter a number between 1 and 10</p>
+            <input id="user_input" type="number" min="1" max="10" placeholder="Enter a number"> 
+        </div>
+        <button class="submit" onclick="CheckTheGuess()"> CHECK</button>
+        <div id="result"></div>
+        <div id="winorloss">
+            <p id="win">No. of wins: <span id="win1">0</span> </p>
+            <p id = "loss"> No. of losses: <span id="loss1">0</span></p>
+        </div>
+    </section>
+    <div id='alerts'>
+        <p id='message'></p>
+        <button id='okbtn' onclick='closeAlert()'>OK</button>
+    </div>
+    <script src="script.js"></script>
+    </body>
+</html>
