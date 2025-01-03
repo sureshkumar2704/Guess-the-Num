@@ -12,14 +12,14 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 - Score Tracking: Keeps track of user performance to encourage replayability (no. of wins and losses).
 ## 🛠️ Tech Stack
 
-HTML: Structure of the game interface.
-CSS: Styling for an engaging and visually appealing user experience.
-JavaScript: Core logic for the game functionality.
+- HTML: Structure of the game interface.
+- CSS: Styling for an engaging and visually appealing user experience.
+- JavaScript: Core logic for the game functionality.
 ## 🚀 How to Play
 
-The game generates a random number within a predefined range.
-Enter your guess in the input field and submit.
-Receive instant feedback:
+1. The game generates a random number within a predefined range (1-10).
+2. Enter your guess in the input field and submit.
+3. Receive instant feedback:
 "Too high" if your guess is higher than the number.
 "Too low" if your guess is lower than the number.
 "Correct!" if you guess the number.
