@@ -7,9 +7,9 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 ## 💡 Features
 
 - Dynamic Gameplay: Random number generation ensures a unique experience each time.
-- Interactive UI: Real-time feedback on guesses (too high, too low, or correct).
+- Interactive UI: Real-time feedback on guesses (right or wrong).
 - Responsive Design: Adaptable for both desktop and mobile devices.
-- Score Tracking: Keeps track of user performance to encourage replayability.
+- Score Tracking: Keeps track of user performance to encourage replayability (no. of wins and losses).
 ## 🛠️ Tech Stack
 
 HTML: Structure of the game interface.
