@@ -25,7 +25,7 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 4. It also prints the number of wins and losses.
 ## 📂 File Structure
 
-<img width="1337" alt="Screenshot 2025-01-03 at 6 37 48 PM" src="https://github.com/user-attachments/assets/e01e6b39-d783-442a-b22a-b322e1285f09" />
+<img  alt="Screenshot 2025-01-03 at 6 37 48 PM" src="https://github.com/user-attachments/assets/e01e6b39-d783-442a-b22a-b322e1285f09" />
 
 ## 🖥️ Demo
 
@@ -34,7 +34,7 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 
 #### Here's my live demo of the [Guess-The-Num](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505) challenge posted in my Linkedin
 
-#### Wanna play! [Click here!](https://sureshkumard.neocities.org/GuessNum)
+### Wanna play!  [Click here!](https://sureshkumard.neocities.org/GuessNum)
 
 <!--
 ## 📜 License
