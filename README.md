@@ -34,19 +34,6 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 
 #### Here's my live demo of the [Guess-The-Num](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505) challenge posted in my Linkedin
 
-## 📸 Screenshots
-
-(Add screenshots of your game interface to showcase its design and functionality.)
-
-## 🏗️ Future Enhancements
-
-Add difficulty levels with varying number ranges.
-Implement a timer for added challenge.
-Maintain a leaderboard for high scores.
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request for any improvements.
-
 ## 📜 License
 
 This project is licensed under the MIT License.
