@@ -1,4 +1,4 @@
- # Guess the Number Challenge
+# Guess the Number Challenge
 
 ## 🎯 Project Overview
 
