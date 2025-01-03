@@ -24,30 +24,30 @@ Receive instant feedback:
 "Too low" if your guess is lower than the number.
 "Correct!" if you guess the number.
 Try to guess the number with the fewest attempts!
-📂 File Structure
+## 📂 File Structure
 
-guess-the-number-challenge/  
+~~ guess-the-number-challenge/  
 │  
 ├── index.html   # Main HTML file  
 ├── style.css    # Styling for the project  
-└── script.js    # Game logic  
-🖥️ Demo
+└── script.js    # Game logic ~~  
+## 🖥️ Demo
 
 [Add a link to your live demo here if hosted, e.g., on GitHub Pages.]
 
-📸 Screenshots
+## 📸 Screenshots
 
 (Add screenshots of your game interface to showcase its design and functionality.)
 
-🏗️ Future Enhancements
+## 🏗️ Future Enhancements
 
 Add difficulty levels with varying number ranges.
 Implement a timer for added challenge.
 Maintain a leaderboard for high scores.
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request for any improvements.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
