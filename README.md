@@ -34,6 +34,9 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 
 #### Here's my live demo of the [Guess-The-Num](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505) challenge posted in my Linkedin
 
+#### Wanna play! [Click here!](https://sureshkumard.neocities.org/GuessNum)
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
