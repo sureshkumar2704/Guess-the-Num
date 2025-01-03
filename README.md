@@ -32,8 +32,7 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 <img width="1440" alt="Screenshot 2024-09-19 at 7 50 42 PM" src="https://github.com/user-attachments/assets/46498cd2-ca89-429a-bcbd-4d57fd9ac7df" />
 
 
-#### Here's my live demo of the Guess-The-Num challenge posted in my Linkedin
-<img src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505" height="748" width="504">
+#### Here's my live demo of the [Guess-The-Num](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505) challenge posted in my Linkedin
 
 ## 📸 Screenshots
 
