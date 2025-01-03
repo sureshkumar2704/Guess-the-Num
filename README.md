@@ -20,20 +20,16 @@ This project is a simple yet engaging Guess the Number game built using HTML, CS
 1. The game generates a random number within a predefined range (1-10).
 2. Enter your guess in the input field and submit.
 3. Receive instant feedback:
-"Too high" if your guess is higher than the number.
-"Too low" if your guess is lower than the number.
-"Correct!" if you guess the number.
-Try to guess the number with the fewest attempts!
+   - "You Won" if your guess is right.
+   - "You Lost" if your guess is wrong.
+4. It also prints the number of wins and losses.
 ## 📂 File Structure
 
-~~ guess-the-number-challenge/  
-│  
-├── index.html   # Main HTML file  
-├── style.css    # Styling for the project  
-└── script.js    # Game logic ~~  
-## 🖥️ Demo
+<img width="1337" alt="Screenshot 2025-01-03 at 6 37 48 PM" src="https://github.com/user-attachments/assets/e01e6b39-d783-442a-b22a-b322e1285f09" />
 
-[Add a link to your live demo here if hosted, e.g., on GitHub Pages.]
+## 🖥️ Demo
+#### Here's my live demo of the Guess-The-Num challenge posted in my Linkedin
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242563911831445505" height="748" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## 📸 Screenshots
 
